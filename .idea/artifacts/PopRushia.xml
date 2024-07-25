@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PopRushia">
+    <output-path>$PROJECT_DIR$/out/artifacts/PopRushia</output-path>
+    <root id="archive" name="PopRushia.jar">
+      <element id="module-output" name="PopRushia" />
+    </root>
+  </artifact>
+</component>
